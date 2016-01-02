@@ -1,2 +1,5 @@
-# job_training
-This repo contains the information for a new fresher training
+# Training 
+
+* setup of github acccount, training on github basics
+* setup of environment and installations of software
+* Understand the SLDC
