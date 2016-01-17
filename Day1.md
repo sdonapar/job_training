@@ -7,3 +7,5 @@
   - [Some more Tips(5 minutes)](https://www.youtube.com/watch?v=D5hMN_XkPQA)
   - Register and attend [meetups](http://www.meetup.com/)
   - Attend conferenceces
+
+[Back](https://github.com/sdonapar/job_training)
