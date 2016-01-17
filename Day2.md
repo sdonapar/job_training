@@ -7,11 +7,10 @@
 * Setup of github acccount, training on github basics
   - [Hello World (30 minutes)](https://guides.github.com/activities/hello-world/)
   - [Youtube Videos (3 hours)](https://www.youtube.com/watch?v=8r_IErxmoUc&list=PL1F56EA413018EEE1&index=1)
+* [Core Design Principles for Software Developers (2.5 hours)](https://www.youtube.com/watch?v=llGgO74uXMI)
 * Setup of environment and installations of software 
   - It is better to use a linux operating system, [Install the Operating System on your desktop/laptop](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
   - Install the necessary software for your development
-  - [day2](https://github.com/sdonapar/job_training/blob/master/day2.md)
-* [Core Design Principles for Software Developers (2.5 hours)](https://www.youtube.com/watch?v=llGgO74uXMI)
 
 
 
