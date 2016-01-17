@@ -5,6 +5,8 @@
 * Improve your communication
   - [Tips(5 minutes)](https://www.youtube.com/watch?v=dKzl_82PbU4) 
   - [Some more Tips(5 minutes)](https://www.youtube.com/watch?v=D5hMN_XkPQA)
+  - [College to Corporate( 1 hour)](https://www.youtube.com/watch?v=NMM3Oi2hxDg)
+  - [Group Discussion (45 mins)](https://www.youtube.com/watch?v=NBlmFiS-muw)
   - Register and attend [meetups](http://www.meetup.com/)
   - Attend conferenceces
 
