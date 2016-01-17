@@ -11,4 +11,5 @@
   - It is better to use a linux operating system, [Install the Operating System on your desktop/laptop](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
   - Install the necessary software for your development
 * Building your first application
+  - [day2](../day2.md)
 
